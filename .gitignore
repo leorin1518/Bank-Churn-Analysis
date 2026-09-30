@@ -1,0 +1,12 @@
+# Dataset (download from Kaggle instead of uploading it)
+data/
+
+# Exported spreadsheets contain full customer rows
+*.xlsx
+
+# Python / editor clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.spyproject/
+.DS_Store
