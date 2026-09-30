@@ -51,5 +51,5 @@ Python · pandas · Matplotlib · Seaborn · Faker · openpyxl
 
 ## Author
 
-**Leonardo Rinaldi**, Junior Data Analyst
+**Leonardo Rinaldi**, Data Analyst
 [LinkedIn](https://www.linkedin.com/in/leonardo-rinaldi-5706b4436)
